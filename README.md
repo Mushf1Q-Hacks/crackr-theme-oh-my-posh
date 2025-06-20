@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Preview
-*(Add your screenshot here: `Screenshot.png`)*
+![Preview](./Screenshot.png)
 
 ---
 
