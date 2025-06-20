@@ -18,6 +18,8 @@
 ## 🚀 Preview
 ![Preview](./Screenshot.png)
 
+![Preview](./crackr.png)
+
 ---
 
 
