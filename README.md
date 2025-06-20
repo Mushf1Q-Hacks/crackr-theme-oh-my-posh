@@ -11,7 +11,7 @@
 - 💻 Real-time CPU and RAM display
 - 👤 User, current time, and working directory indicators
 - 🖥️ Fully optimized for Windows PowerShell
-- 🖋️ Requires Nerd Fonts for proper icon rendering. (0xProto used here)
+- 🖋️ Requires Nerd Fonts for proper icon rendering. (0xProto Nerd font is used here)
 
 ---
 
